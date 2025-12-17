@@ -1,5 +1,6 @@
 Hi, I am an undergraduate Computer Science student at the University of Houston
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
+
+[Learning Web Dev](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
 <!--
 **arriagagustavoo/arriagagustavoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
