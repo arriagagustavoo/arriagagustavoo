@@ -1,6 +1,7 @@
 Hi, I am an undergraduate Computer Science student at the University of Houston.
 
 Notable courses taken:
+
 Data Structures & Algorithms, Database Systems, Discrete Math, Linear Algebra, Computer Graphics (using Pygame OpenGL), Programming Languages and Paradigms, Medical Imaging
 
 Experience with: 
