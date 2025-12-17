@@ -1,10 +1,13 @@
-##Hi, I am an undergraduate Computer Science student at the University of Houston
+Hi, I am an undergraduate Computer Science student at the University of Houston.
 
-Experience in: 
+Notable courses taken:
+Data Structures & Algorithms, Database Systems, Discrete Math, Linear Algebra, Computer Graphics (using Pygame OpenGL), Programming Languages and Paradigms, Medical Imaging
+
+Experience with: 
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,matlab,r,html,css,js,postgres,express&perline=3)](https://skillicons.dev)
 
-I also plan on learning more skills and broaden my abilities
+I am excited to pick up more skills as time goes on.
 <!--
 **arriagagustavoo/arriagagustavoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
