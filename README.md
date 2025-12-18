@@ -7,9 +7,10 @@ Through recent courses taken, I have developed a real interest with how game dev
 ## Notable courses taken:
 
 Data Structures & Algorithms, Database Systems, Discrete Math, Linear Algebra, 
-Computer Graphics*, Programming Paradigms, Medical Imaging
+Computer Graphics*, Programming Paradigms, Medical Imaging**
 
 ###### *used python's openGL pygame library
+###### **used MATLAB image processing toolbox
 
 
 
