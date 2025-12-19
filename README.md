@@ -1,8 +1,8 @@
-# Hi, My name is Gustavo Arriaga and I am an undergraduate Computer Science student at the University of Houston.
+# Hi, my name is Gustavo Arriaga and I am an undergraduate Computer Science student at the University of Houston.
 
 I want to learn and build projects with every field Computer Science has to offer.
 As of now, I have made notable projects through required course work, but those made me eager to use what I learned to make my own projects going forward.
-Through recent courses taken, I have developed a real interest with how game development works, digital imaging works in the medical scene and a more hands on experience with Full-Stack Web Development.
+Through recent courses taken, I have developed a real interest with how game development works, digital imaging in the medical scene and Full-Stack Web Development.
 I also like to mess around with CAD(Autodesk Fusion) and develop my own custom 3D models to print.
 
 ## Notable courses taken:
