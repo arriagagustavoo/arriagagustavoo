@@ -5,16 +5,6 @@ As of now, I have made notable projects through required course work, but those 
 Through recent courses taken, I have developed a real interest with how game development works, digital imaging in the medical scene and Full-Stack Web Development.
 I also like to mess around with CAD(Autodesk Fusion) and develop my own custom 3D models to print.
 
-## Notable courses taken:
-
-Data Structures & Algorithms, Database Systems, Discrete Math, Linear Algebra, 
-Computer Graphics*, Programming Paradigms, Medical Imaging**
-
-<sub>*used python's openGL pygame library</sub><br>
-<sub>**used MATLAB image processing toolbox</sub>
-
-
-
 ## Experience with: 
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,matlab,r,html,css,js,postgres,express,nodejs,git,latex&perline=4)](https://skillicons.dev)
