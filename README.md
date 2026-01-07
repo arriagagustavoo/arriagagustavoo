@@ -1,4 +1,4 @@
-# Hi, my name is Gustavo Arriaga and I am an undergraduate Computer Science student at the University of Houston.
+# I'm Gustavo Arriaga, an undergraduate Computer Science student at the University of Houston.
 
 I want to learn and build projects with every field Computer Science has to offer.
 As of now, I have made notable projects through required course work, but those made me eager to use what I learned to make my own projects going forward.
