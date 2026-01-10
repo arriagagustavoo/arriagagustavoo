@@ -9,7 +9,6 @@ I also like to mess around with CAD(Autodesk Fusion) and develop my own custom 3
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,matlab,r,html,css,js,postgres,express,nodejs,git,latex&perline=4)](https://skillicons.dev)
 
-I am excited to pick up more skills as time goes on.
 <!--
 **arriagagustavoo/arriagagustavoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
