@@ -1,6 +1,6 @@
 # I'm Gustavo Arriaga, an undergraduate Computer Science student at the University of Houston.
 
-Building projects with every field Computer Science has to offer.
+Building projects with every field Computer Science has to offer. <br>
 I use CAD(Autodesk Fusion) to develop my own custom 3D models to print.
 
 ## Experience with: 
