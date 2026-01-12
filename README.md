@@ -1,8 +1,7 @@
 # I'm Gustavo Arriaga, an undergraduate Computer Science student at the University of Houston.
 
-I want to learn and build projects with every field Computer Science has to offer.
-I have developed a real interest with how game development works, digital imaging in the medical scene and Full-Stack Web Development.
-I also like to mess around with CAD(Autodesk Fusion) and develop my own custom 3D models to print.
+Building projects with every field Computer Science has to offer.
+I use CAD(Autodesk Fusion) to develop my own custom 3D models to print.
 
 ## Experience with: 
 
