@@ -5,11 +5,8 @@
 # Hey, I'm Gus
  
 CS senior at the University of Houston. 
-
 I build software, from full-stack web apps to graphics programming.
-
 I run a freelance business making websites and tools for local businesses in Houston. 
-
 I also design custom 3D models in Autodesk Fusion to print.
  
 ## What I do
