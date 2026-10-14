@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://arriagagustavoo.com"><img src="badge-portfolio.svg" alt="arriagagustavoo.com"></a>
-  <a href="https://www.instagram.com/dev.arriagagustavoo/"><img src="badge-instagram.svg" alt="Instagram @arriagagustavoo"></a>
+  <a href="https://www.instagram.com/dev.arriagagustavoo/"><img src="badge-instagram.svg" alt="Instagram @dev.arriagagustavoo"></a>
   <img src="badge-location.svg" alt="Houston, TX">
 </p>
 
