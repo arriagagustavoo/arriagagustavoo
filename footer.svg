@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="160" viewBox="0 0 1280 160" role="img" aria-labelledby="t">
+<title id="t">Let's build. arriagagustavoo.com</title>
+<style>
+@font-face { font-family: "GB"; font-weight: 900; src: url(data:font/woff2;base64,d09GMgABAAAAAASMABAAAAAACPQAAAQvAAHMzQAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgw4cKgZgP1NUQVREAGwRCAqEOINEATYCJAMwCxoABCAFg1QHIAwHG04HAB6FcZsTTlGdxne7pcUKQYiH59e+nXtnvs3/i4lUvEES02R185aASTOvpKUR6oYGlffzber7QCqkLqyqHjNCRezU7RYyNT2JV04Tb4D/dNj/c029SDs+ys8HejjEDhxYJe3Nkod0gYsS6ed7o+NFgQwHZAOcbjJktwgemE7t0PsbCAwAKYSuEGhskITYk5FXBnYXumkp2F2heRKwu9nMyMEOAeW/QNzg0XLQQwqkdpjAdKXGIshAjTAJEkKoym/pEdR4A6N6upRvLRtPWQTUUFZ61iJIAMB4NACUH32D8hoo33pGWdSUfRooi1AuAWWxZ71usSlZ9gGgASmFLhp9XSH01UKiI7RUaOfRUIdQy3xH6r7rE9McBJbwg6kAQEiN/pFvpEArjWW8YDsSMdoF2iaAFdTZhI9BixzBqgDs9W1AnIaQSANgHMPPO7w/NQ/OWaC8Wvr/nHoH0gECck5ewQKkELoSU2BYArsvEDIIuHanWYo8ILUJEMSSagyohAxPgACJClPgAlMQjgKTmMClBTwFSJEuW57yEjyehpS+Q+9trzrbmU52vIOCfGOI8t94MAAzgCE8Bf4AakAlhXJEamJPFjIgdIO7FrUOl2M4+xiGzz0Kg8e+5SOygjt7Fw3fIUmkyA13mT+NPA0/YfPGMDD05PstLjFfhSGcG3nypKKS3X+dO3t0JxrecSNjCk/Q8NOnIx8/Li/T7jlBzpyC4e3Xwx+vF3zUW0MiY2hqrUA4Fxu6r5GHgSufRVw4cdhZ88FtV3ymVtfxfA2T3b5iVXqVFTltC43To2s6fTd4eCz4dQ41+DS5uDX6NkDCL87Bs8d27jh1dF+GJrm6qJHPH6nq5JyBEZvTmaBJ6C5hifSlKzgOVqHezMLt8S3T8bkqIv+CXso9Lw8nTa2luR+/psm8MyyiNDkltXUwsqZxMDFDoZN9Ttfk58dVPvcdrGSpT4Wm3fEh5VHpaW0j4fB85V22lb3rDa3jG2ZSc/vKz106F6ONjNLGBMFyzsnrA/Xh0iHY+tzw+uG5CuwbCMTo78Ynw8GNxnH/9HD8I4y95pcCMPbXZOv/qP8m+i7VDbQlCP7qZO9sBfs3bchHxmiQVeCVd2zLFxfSw0QSm6WHuGxTdgKZ1633hKhhgVdWQBg4SMc+hAAAZPpGorZaH3gATgjTaCGN8wEqa1wYrOugZZZlpW1a6DUhMAgnATdk+IAHgwg7LU9kJEEqBaVuNBEBIQYlRJAQYShlhHgomXhE1BiUIjQFMZ5WDEqydgwhBZoaxYsQg6GkFiNQIAHRNGrXIkArBVnGqgMPrRWPFP5V7PrjU5BjeK89OoVUs1YSJXgE2rlH04IFiBIkSKwKJVLlie3W+qMVeZqaCAPU3UkPUhn4NoFMSjaDNqMisYSC7ExyOFA0NjG1X9D/8RHzAAAA) format("woff2"); }
+@font-face { font-family: "GM"; font-weight: 500; src: url(data:font/woff2;base64,d09GMgABAAAAAAWgABAAAAAACjAAAAVFAAGzdQAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIBxyBmA/U1RBVEQAbBEICohUhwkBNgIkA0ALIgAEIAWDfgcgDAcbLQggnoWx22JSaaKJ1ams/BAPDzWX708mKZtZFxugonKE1ldOVbUQqicxy4FdNpF8SLw57R6IZQBVyUuq1H0LVV+CHdz/AOCwwWP4POeC4mw4LQdbgkJu48Eh7djPXNM5EG4tBwpbjawypMI0FUpVVlhd3YaoVPxcisqmrwN/rUBbQCIRUqGknRAo66u/WLpcZYJYKdRqARD2Wg7hq5OP2Hd8EHKBG4qLdhOXwuAlBtOAukbooG0VmigGpZUfUNsRRwf7IRaDRaqobkO4ZH0qTRrjmyLJNg0Da/h47IUTC0hCG00w/HvVb0ZV8Mh4JxW+/v8+6cLYQEDSNXkBA5WEUCdBVwmGSk4+mBoPAw49wd8fViWkOgqIPvErCkISw0GABAV0VRDoKtUIdNZRQWK8fQWRaAOGTNbEjBn9Cu6mwoQCOUIEQB0Y1/FjBqITsQbE4+iJroBESGq1ohMZZCrizzGibf9BSe1GdEzsNSEx7bZLmubbqtVobm1oWHmnvO21vvWvW7PtLTSdn2XOu6687ZV7+meXvVWp3976bMTW+x7T9Pi+XiJsvGXQ1pNVXLyiqSUDJYfkxysVAL1/w5HXl7RG3FYp4+PjGhLCm6pit7VIw7XVNxzviKwwrxztkky5nBWzvPsptCkvj/Ik5ULzPbftpqsq5q6BLTg1Vbbni+ZqSNXc5Mjy7hh9RpQvOTnnZy764IYjb3e/Gs23vLK8Wn0mTLzf1oN3vILNe03TzS9Ps6ieDtvYbls1ClnS9LhkDookuUl0UuH475eW67u9qGR7ZfbdE1xZWGbvSPBJNnlDRbOwETMojSmXhsx3t3MW9h9aSl5zvNtJMGPEs87/d+i/RXei3dAeq907GnLUJSUGlrAsafSoXf3+zAeUvTQjW30MhsybTMjcsFjR623sNR86qHRz0bQWVBWwWFQBlIV1njuoeHhBo48NI6+eu2cVIr5/aOn4idNRSUeHplbX0iYihV2jSk3nGC4Udpo4DbB533dLZrmYFkUOT2kFTbF89fvRiyQ2nVZmBVX+5KLvfsvHPrwnv+cglV1tEVPXXDZ7SROLhUaJsm0LlrP4nZYAGbAITvTt/PjnUVt9Ft5avy73krQWGrLVR6HIgsmMzGeVQhnzZhOykC93oTK/1dppUP6NwJTf+fiFj+/PW+vOPbO0fLEYGbENVCPnR3d7U8lxsxUHtnTo2ETU7M9zZhwZ2LU7INck20Z6mpqb5c56TOpkcdUDRJS92n1QW15x7vzor41trSN7GlntmK8STtmkUWh+HfjLsCEV6/mHT+Qf5f5n63anvDacJ2MLuR0iOdaNZ3pho6Xd0l2V8PXJLkfuuOlRHEnv9uXpZ5/uj30OpWiA4Yoo6dB/erIMa0EyNXmFXheIe0/s9fabc/bugPxWVyh8CZ813tIA+HzKzEtKtYHJxsJ1lCQg+DPlJY2i/3sNIHIcaAU6xq8ms5JbQQDtvCpNpRlMoAQWmKHpTR/wp0BHuWjrRAmCCuLMbJt0pG1wA4UbBruBm2jvJW7BdNX5FMYt6h1tOSUDY3hF0DaWE/QhbIZhhL2eH64ch0ENGTZjFI1EGVdqsokmmyrKrUbAHSvgEDSWCzcaNYRhFDTdXmTCOMqQUWNKjQx0a9ywMd0mmOBgNOjxCQHN9jdkQIuT4EYF4fqL7CWOJgexcnCiaXZerNsCWgdAQxLHhdD8TQ0wwJEm9PMbxTbeDBNNMkc9A5RKTyBZ5m8Ci+gYiJa5UpnMGayyTziw9EPJjfPrRwsyGDLAb1AEULusyQit+KGonbF0JwAA) format("woff2"); }
+.slogan { font-family: "GB", "Arial Black", Arial, sans-serif; font-weight: 900; font-size: 92px; letter-spacing: -1.8px; }
+.mono   { font-family: "GM", ui-monospace, Menlo, Consolas, monospace; font-weight: 500; }
+
+.drift  { animation: texture-drift 13s linear infinite; }
+.glow   { animation: atmosphere-breathe 6s ease-in-out infinite; }
+.streak-a { animation: atmosphere-streak 11s linear infinite; }
+.streak-b { animation: atmosphere-streak 11s linear infinite -5.5s; }
+.caret  { animation: caret-blink 1.05s steps(1) infinite; }
+@keyframes texture-drift { 0% { transform: translate(0,0); } 100% { transform: translate(18.5px,18.5px); } }
+@keyframes atmosphere-breathe { 0%,100% { opacity: .55; } 50% { opacity: .95; } }
+@keyframes atmosphere-streak {
+  0%   { opacity: 0; transform: translateX(-260px); }
+  4%   { opacity: 1; }
+  26%  { opacity: 1; }
+  32%  { opacity: 0; transform: translateX(1700px); }
+  100% { opacity: 0; transform: translateX(1700px); }
+}
+@keyframes caret-blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs>
+  <radialGradient id="glowg" gradientUnits="userSpaceOnUse" cx="1040" cy="150" r="1" gradientTransform="translate(1040 150) scale(560 260) translate(-1040 -150)">
+    <stop offset="0"   stop-color="#1e9e45" stop-opacity=".26"/>
+    <stop offset=".26" stop-color="#1e9e45" stop-opacity=".19"/>
+    <stop offset=".45" stop-color="#1e9e45" stop-opacity=".11"/>
+    <stop offset=".62" stop-color="#1e9e45" stop-opacity=".05"/>
+    <stop offset=".80" stop-color="#1e9e45" stop-opacity=".012"/>
+    <stop offset=".92" stop-color="#1e9e45" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="streakg" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0"   stop-color="#1e9e45" stop-opacity="0"/>
+    <stop offset=".22" stop-color="#1e9e45" stop-opacity=".03"/>
+    <stop offset=".35" stop-color="#1e9e45" stop-opacity=".09"/>
+    <stop offset=".44" stop-color="#1e9e45" stop-opacity=".2"/>
+    <stop offset=".5"  stop-color="#1e9e45" stop-opacity=".26"/>
+    <stop offset=".56" stop-color="#1e9e45" stop-opacity=".2"/>
+    <stop offset=".65" stop-color="#1e9e45" stop-opacity=".09"/>
+    <stop offset=".78" stop-color="#1e9e45" stop-opacity=".03"/>
+    <stop offset="1"   stop-color="#1e9e45" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="frame"><rect width="1280" height="160"/></clipPath>
+</defs>
+
+<g clip-path="url(#frame)">
+  <rect width="1280" height="160" fill="#050505"/>
+  <rect class="glow" width="1280" height="160" fill="url(#glowg)"/>
+  <g class="drift"><path d="M-234 160L-74 0M-197 160L-37 0M-160 160L0 0M-123 160L37 0M-86 160L74 0M-49 160L111 0M-12 160L148 0M25 160L185 0M62 160L222 0M99 160L259 0M136 160L296 0M173 160L333 0M210 160L370 0M247 160L407 0M284 160L444 0M321 160L481 0M358 160L518 0M395 160L555 0M432 160L592 0M469 160L629 0M506 160L666 0M543 160L703 0M580 160L740 0M617 160L777 0M654 160L814 0M691 160L851 0M728 160L888 0M765 160L925 0M802 160L962 0M839 160L999 0M876 160L1036 0M913 160L1073 0M950 160L1110 0M987 160L1147 0M1024 160L1184 0M1061 160L1221 0M1098 160L1258 0M1135 160L1295 0M1172 160L1332 0M1209 160L1369 0M1246 160L1406 0M1283 160L1443 0" fill="none" stroke="#1e9e45" stroke-opacity=".13" stroke-width="1.5"/></g>
+  <g transform="translate(0 80.0)">
+    <g class="streak-a"><rect x="-150" y="-600" width="300" height="1200" fill="url(#streakg)" transform="rotate(45)"/></g>
+    <g class="streak-b"><rect x="-95" y="-600" width="190" height="1200" fill="url(#streakg)" transform="rotate(45)"/></g>
+  </g>
+
+  <!-- slogan -->
+  <text class="slogan" x="80" y="112"><tspan fill="#f2f2f2">LET'S </tspan><tspan fill="#1e9e45">BUILD.</tspan></text>
+  <rect class="caret" x="679.2" y="47" width="26" height="65" fill="#1e9e45"/>
+
+  <!-- slanted CTA button with hard offset shadow, like the site -->
+  <g transform="translate(870 52)">
+    <g transform="skewX(-12)">
+      <rect x="6" y="6" width="330" height="56" fill="#fff" fill-opacity=".0"/>
+      <rect x="-6" y="6" width="330" height="56" fill="#0b3d1a"/>
+      <rect x="0" y="0" width="330" height="56" fill="#1e9e45"/>
+    </g>
+    <text class="mono" x="141.0" y="35.0" font-size="21" fill="#fff" text-anchor="middle">arriagagustavoo.com</text>
+    <path d="M274 28.0 h20 m-7 -7 l7 7 l-7 7" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="square"/>
+  </g>
+</g>
+</svg>
