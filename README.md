@@ -13,15 +13,15 @@ CS senior at the University of Houston. I build software from full-stack web app
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=py,cpp,js,ts,java,c,sql&perline=7)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,cpp,js,ts,r,cs,matlab,swift&perline=12)](https://skillicons.dev)
 
 **Web**
 
-[![Web](https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind&perline=7)](https://skillicons.dev) [![Data](https://skillicons.dev/icons?i=postgres,supabase,mongodb&perline=7)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=html,css,react,vite,nextjs,nodejs,express,postgres,cloudflare,supabase,vercel,mongodb&perline=13)](https://skillicons.dev)
 
 **Tools & Design**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&perline=7)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=latex,unity,git,github,vscode,figma&perline=7)](https://skillicons.dev)
 
 
 <p align="center">
